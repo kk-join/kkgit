@@ -1,1 +1,3 @@
 bbb hello
+hello bbb
+第一次合并 git merge --no-ff f1
